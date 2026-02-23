@@ -1,4 +1,4 @@
-# 📚 TP 3 – Gestion des Réservations
+# TP 3 – Gestion des Réservations
 
 ## 🔗 Lier Salle – Réservation – Utilisateur  
 ## ➕ Ajouter Équipement (ManyToMany)  
@@ -122,7 +122,7 @@ Relation ManyToMany.
 - Liaison des entités
 - Persistance automatique grâce à la cascade
 
-📸 Console à insérer : 
+📸 Console  : 
 ![Test Cascade](screen/img1.jpg)
 ![Test Cascade](screen/img2.jpg)
 ![Test Cascade](screen/img3.jpg)
@@ -140,7 +140,7 @@ Relation ManyToMany.
 - Suppression d’une réservation
 - Vérification que la réservation est supprimée de la base
 
-📸 Console à insérer :  
+📸 Console  :  
 ![Test orphan](screen/img8.jpg)
 ![Test orphan](screen/img9.jpg)
 ![Test orphan](screen/img10.jpg)
